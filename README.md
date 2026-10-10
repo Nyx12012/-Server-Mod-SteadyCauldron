@@ -6,8 +6,6 @@ Pick it up with both hands and it comes free like normal.
 
 Players don't need to install anything.
 
-Idea and concept art by Hazy (@AnAdventures).
-
 ## How it works
 
 - Let go of a cauldron within 1 m of the ground and it snaps down onto it, standing upright.
